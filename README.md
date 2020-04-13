@@ -1,2 +1,3 @@
 # homework_modul3
-<img/presentation1.jpg>
+
+<img src="img/presentation1.jpg" alt="logo">
