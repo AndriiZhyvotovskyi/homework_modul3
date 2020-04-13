@@ -1,5 +1,6 @@
 # homework_modul3
-  presentation1
+  <div text-aligt:center>image 1</div>
+ 
 <img src="img/presentation1.jpg" alt="logo">
-  presentation2
+  image 2
 <img src="img/presentation2.jpg" alt="logo">
