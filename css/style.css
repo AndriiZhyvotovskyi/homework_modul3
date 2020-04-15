@@ -102,6 +102,7 @@ input[type="radio"].visually-hidden {
     font-size: 30px;
     line-height: 36px;
     margin: 0;
+    font-weight: 400;
 }
 
 .article_item {
